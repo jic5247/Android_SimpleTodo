@@ -22,6 +22,6 @@ Spent around 3 hours to watch the walk-thought videos to set up "Android Studio"
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](GIF_walk_through.gif)
+![Video Walkthrough](https://cloud.githubusercontent.com/assets/10843448/6545468/2935448e-c546-11e4-897b-67adc1d29136.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
