@@ -1,5 +1,8 @@
 # Android_SimpleTodo
 
+Please click on the fellowing link to the materials of my research:
+[Android Training: Getting a Result from an Activity](http://developer.android.com/training/basics/intents/result.html)
+
 Time spent: around 6 hours
 
 Completed User Stories:
