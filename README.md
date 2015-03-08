@@ -2,7 +2,9 @@
 
 Please click on the fellowing link to the materials of my research:
 
+[Android Training: Common Intents](https://developer.android.com/guide/components/intents-common.html)
 [Android Training: Getting a Result from an Activity](http://developer.android.com/training/basics/intents/result.html)
+[Stackoverflow: How to manage start activity for result on Android?](http://stackoverflow.com/questions/10407159/how-to-manage-start-activity-for-result-on-android)
 
 Time spent: around 6 hours
 
