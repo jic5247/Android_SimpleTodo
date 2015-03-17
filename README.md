@@ -12,7 +12,7 @@ Time spent: around 6 hours
 
 Completed User Stories:
 
-* [x] Successfully add and remove items from the todo list within my app
+Successfully add and remove items from the todo list within my app
 * [x] Include support for editing todo items
 * [x] Persist todo items and retrieve them properly on app restart
  
